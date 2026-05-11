@@ -106,7 +106,7 @@ Format:
 Fais une recherche complète sur les NOUVELLES SORTIES MUSICALES FRANCOPHONES cette semaine.
 
 Inclus:
-1. Les 5-7 meilleures nouvelles sorties (singles, albums, clips)
+1. Les 10 meilleures nouvelles sorties (singles, albums, clips)
 2. Artistes qui font buzz
 3. Collaborations intéressantes
 4. Récompenses/news industrie
