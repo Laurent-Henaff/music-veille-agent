@@ -19,9 +19,9 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 # CONFIG
 # ============================================================================
 
-ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
+ANTHROPIC_API_KEY = os.getenv("ANTHROPICAPIKEY")
 if not ANTHROPIC_API_KEY:
-    print("❌ ERREUR: ANTHROPIC_API_KEY non trouvée")
+    print("❌ ERREUR: ANTHROPICAPIKEY non trouvée")
     sys.exit(1)
 
 REPORTS_DIR = Path("reports")
